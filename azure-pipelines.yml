@@ -1,4 +1,4 @@
-pool: Default
+pool: default
 trigger:
   - master
 steps:
